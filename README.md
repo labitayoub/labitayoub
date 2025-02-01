@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="300">
-</div>
-
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=4298d1&center=true&vCenter=true&random=false&width=800&height=70&lines=Ayoub+Labit;D%C3%A9veloppeur+Web+Full+Stack;Passionn%C3%A9+par+l'innovation" alt="Typing SVG"/>
