@@ -79,6 +79,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 #### 🎨 Frontend
 - Développement d'interfaces responsive
 - Intégration avec Tailwind CSS
+- Intégration avec Boostrap CSS
 - JavaScript moderne
 - Optimisation des performances UI/UX
 
