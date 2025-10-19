@@ -101,57 +101,32 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 
 <div align="center">
 
-<!-- Stats de base -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=labitayoub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/labitayoub)
 
-<!-- Langages les plus utilisés -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labitayoub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/labitayoub)
 
-<!-- Graphique des contributions -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=labitayoub&theme=tokyo-night&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/labitayoub)
 
-<!-- Trophées -->
 <img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
-
-<!-- Statistiques détaillées -->
-<details>
-<summary>📊 Plus de Statistiques</summary>
-
-<!-- Stats Wakatime si configuré -->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=labitayoub&theme=tokyonight&hide_border=true)](https://wakatime.com/@labitayoub)
-
-<!-- Badges de stats -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=labitayoub&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=labitayoub&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=labitayoub&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=labitayoub&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=labitayoub&theme=tokyonight)
-
-</details>
-
-<!-- Compteur de visiteurs -->
-![](https://komarev.com/ghpvc/?username=labitayoub&color=blue&style=flat-square&label=Visiteurs)
 
 </div>
 
 ## 🏆 GitHub Achievements
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<div align="center">
 
-<p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests successfully">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck - Earned project stars">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Pushed directly to main branch">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire - Collaborated with other developers">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed PRs quickly">
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Gave helpful answers in discussions">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arachnid-default.png" width="80" title="Arctic Code Vault Contributor">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Contributor">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" title="Public Sponsor">
-</p>
+
+</div>
 
 ## 🌟 Profils Additionnels
 
@@ -179,6 +154,6 @@ Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants
 
 <div align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="60">
-  
+  <br>
   *⭐ N'oubliez pas de mettre une étoile aux projets qui vous intéressent ! ⭐*
 </div>
