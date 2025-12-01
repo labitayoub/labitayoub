@@ -77,28 +77,30 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 ### Expertise par domaine
 
 #### 🎨 Frontend
-- Interfaces responsive
-- Tailwind CSS & Bootstrap
+- Développement d'interfaces responsive
+- Intégration avec Tailwind CSS
+- Intégration avec Bootstrap CSS
 - JavaScript moderne
-- Optimisation UI/UX
+- Optimisation des performances UI/UX
 
-#### 💽 Backend & Bases de données
-- PHP orienté objet
-- API avec Express.js
-- Applications Laravel
-- MySQL & MongoDB
-- Sécurisation des données
+#### 💽 Backend & Base de données
+- Développement PHP orienté objet
+- Développement d'API avec **Express.js**
+- Développement d'applications avec **Laravel**
+- Gestion et optimisation des bases de données **MySQL** & **MongoDB**
+- Sécurisation des données et des transactions
+- Intégration des systèmes tiers
 
 #### 🔧 Méthodologies & Outils
-- Git & GitHub Actions
-- Workflow Git (branches, PR, review)
-- Documentation & tests
+- Versioning avec Git & GitHub Actions
+- Workflow Git (branches, pull requests, code review)
+- Documentation technique
+- Tests et débogage
 
----
-
-## 📊 GitHub Stats
+## 📈 Performance GitHub
 
 <div align="center">
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=labitayoub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/labitayoub)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labitayoub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/labitayoub)
@@ -106,9 +108,25 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=labitayoub&theme=tokyo-night&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/labitayoub)
 
 <img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
+
 </div>
 
----
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests successfully">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck - Earned project stars">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Pushed directly to main branch">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire - Collaborated with other developers">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed PRs quickly">
+  <br>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Gave helpful answers in discussions">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Contributor">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" title="Public Sponsor">
+
+</div>
 
 ## 🤝 Collaboration & Contact
 
@@ -117,6 +135,12 @@ Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants
 ### Me trouver ailleurs
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-labitayoub-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoublabit/)
 [![GitHub](https://img.shields.io/badge/GitHub-labitayoub-181717?style=for-the-badge&logo=github)](https://github.com/labitayoub)
+
 </div>
+
+
+
+
