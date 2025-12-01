@@ -1,13 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hello,+World!+👋;I+am+Ayoub+Labit;Full+Stack+Developer;Creative+Thinker" alt="Typing SVG" />
   
-  <pre>
-   ______           __     __  ___            __
-  / ____/___  ____/ /__  /  |/  /___ ______/ /____  _____
- / /   / __ \/ __  / _ \/ /|_/ / __ `/ ___/ __/ _ \/ ___/
-/ /___/ /_/ / /_/ /  __/ /  / / /_/ (__  ) /_/  __/ /
-\____/\____/\__,_/\___/_/  /_/\__,_/____/\__/\___/_/
-  </pre>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=LABIT%20AYOUB&height=100&fontSize=70&animation=fadeIn&stroke=000000&strokeWidth=1&fontAlignY=55" alt="LABIT AYOUB" />
   
   <h3>Développeur Web Full Stack | Créateur d'Expériences Numériques</h3>
   
@@ -45,10 +39,9 @@
 
 Je suis un **Développeur Full Stack** créatif et rigoureux, spécialisé dans la conception d'applications web modernes. Mon expertise couvre l'ensemble du cycle de développement, de l'architecture backend à l'interface utilisateur frontend.
 
-*   🔭 **Actuellement** : Je développe des solutions web performantes et scalables.
-*   🌱 **En apprentissage** : Veille technologique constante sur l'écosystème JavaScript/TypeScript.
-*   🤝 **Collaboration** : Ouvert aux opportunités et aux projets innovants.
-*   ⚡ **Soft Skills** : Résolution de problèmes, travail d'équipe et communication claire.
+*   🔭 **Actuellement** : Je conçois des applications web intuitives axées sur la performance et l'expérience utilisateur.
+*   🤝 **Disponibilité** : Prêt à relever de nouveaux défis techniques au sein d'une entreprise innovante.
+*   ⚡ **Valeurs** : Code propre, tests rigoureux et collaboration proactive.
 
 ---
 
@@ -103,9 +96,10 @@ Je suis un **Développeur Full Stack** créatif et rigoureux, spécialisé dans 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=labitayoub&style=flat-square&color=blue" alt="Visitor Count" />
+
   <br/>
   <br/>
-  <i>"Le code est comme l'humour. Si vous devez l'expliquer, c'est qu'il est mauvais."</i>
+  <i>"La simplicité est la sophistication suprême." — Leonardo da Vinci</i>
   <br/>
   <br/>
   <a href="https://linkedin.com/in/ayoublabit"><img src="https://img.shields.io/badge/Connectons--nous-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
