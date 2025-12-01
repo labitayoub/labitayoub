@@ -4,13 +4,35 @@
     </a>
 </h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Hemant+Medhsia;Welcome+to+my+GitHub+Profile;" />
+
+  <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <strong>Hemant Medhsia</strong></h1>
+  <img src ="https://media.licdn.com/dms/image/v2/D4D16AQEmI2dbIpVzGA/profile-displaybackgroundimage-shrink_350_1400/B4DZavzMMyHwAc-/0/1746706155520?e=1756339200&v=beta&t=hU_swGUzn6xh7-r_FOdRIoMqBUUpXxTvMGD6C90kXaU" />
+  <h3><em>Exploring the World of Code with Passion and Precision</em></h3>
+</div>
+
+---
+
 ## 👨‍💻 À propos
 
 Développeur web et mobile spécialisé dans la création d'applications interactives innovantes. Passionné par l'open-source et l'apprentissage continu, je m'efforce constamment d'explorer de nouvelles technologies et de contribuer activement à la communauté du développement.
 
+<img height="290px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🔭 **Hemant** : Associate Software Developer at [`Cognis Solution Pvt. Ltd.`](https://www.cognis.in)  
+- 🌱 Deepening expertise in **Java** & **Spring Ecosystem**  
+- 💻 Explore projects: [misterhemant.tech/projects](https://www.misterhemant.tech/project)  
+- 💬 Ask about: **Frontend | Backend | SaaS | Deployment | UI/UX | MERN | Java**  
+- 👨‍💻 Life Hack: Learn & share what you have learned 🎉  
+- 📫 Reach: **hemantmedhsia@gmail.com**
+
+---
+
 ## 🛠️ Stack Technique
 
 ### Technologies Web
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -77,56 +99,52 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 ### Expertise par domaine
 
 #### 🎨 Frontend
-- Développement d'interfaces responsive
-- Intégration avec Tailwind CSS
-- Intégration avec Bootstrap CSS
+- Interfaces responsive
+- Tailwind CSS & Bootstrap
 - JavaScript moderne
-- Optimisation des performances UI/UX
+- Optimisation UI/UX
 
-#### 💽 Backend & Base de données
-- Développement PHP orienté objet
-- Développement d'API avec **Express.js**
-- Développement d'applications avec **Laravel**
-- Gestion et optimisation des bases de données **MySQL** & **MongoDB**
-- Sécurisation des données et des transactions
-- Intégration des systèmes tiers
+#### 💽 Backend & Bases de données
+- PHP orienté objet
+- API avec Express.js
+- Applications Laravel
+- MySQL & MongoDB
+- Sécurisation des données
 
 #### 🔧 Méthodologies & Outils
-- Versioning avec Git & GitHub Actions
-- Workflow Git (branches, pull requests, code review)
-- Documentation technique
-- Tests et débogage
+- Git & GitHub Actions
+- Workflow Git (branches, PR, review)
+- Documentation & tests
 
-## 📈 Performance GitHub
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=labitayoub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/labitayoub)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labitayoub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/labitayoub)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=labitayoub&theme=tokyo-night&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/labitayoub)
-
-<img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HemantMedhsia&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemantMedhsia&theme=radical&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantMedhsia&theme=radical&hide_border=true&layout=compact" width="40%" />
 </div>
+
+---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests successfully">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck - Earned project stars">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Pushed directly to main branch">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire - Collaborated with other developers">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed PRs quickly">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80">
   <br>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Gave helpful answers in discussions">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Contributor">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" title="Public Sponsor">
-
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80">
 </div>
+
+---
 
 ## 🤝 Collaboration & Contact
 
@@ -135,11 +153,6 @@ Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants
 ### Me trouver ailleurs
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-labitayoub-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoublabit/)
 [![GitHub](https://img.shields.io/badge/GitHub-labitayoub-181717?style=for-the-badge&logo=github)](https://github.com/labitayoub)
-
 </div>
-
-
-
