@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hello,+World!+👋;I+am+Ayoub+Labit;Full+Stack+Developer;Creative+Thinker" alt="Typing SVG" />
   
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=LABIT%20AYOUB&height=100&fontSize=70&animation=fadeIn&stroke=000000&strokeWidth=1&fontAlignY=55" alt="LABIT AYOUB" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&text=LABIT%20AYOUB&height=100&fontSize=70&animation=fadeIn&strokeWidth=0&fontAlignY=55" alt="LABIT AYOUB" />
   
   <h3>Développeur Web Full Stack | Créateur d'Expériences Numériques</h3>
   
@@ -51,7 +51,7 @@ Je suis un **Développeur Full Stack** créatif et rigoureux, spécialisé dans 
 
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=labitayoub">
-    <img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophées" />
+    <img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=radical&no-frame=true&margin-w=15&margin-h=15&exclude=followers,experience,issues,reviews" alt="Trophées" />
   </a>
 </div>
 
