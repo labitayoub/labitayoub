@@ -78,13 +78,15 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=labitayoub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/labitayoub)
+<!-- Statistiques GitHub dynamiques -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=labitayoub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/labitayoub)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labitayoub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/labitayoub)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labitayoub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/labitayoub)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=labitayoub&theme=tokyo-night&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/labitayoub)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=labitayoub&theme=react-dark&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/labitayoub)
 
-<img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
+<!-- Trophées GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophées GitHub"/>
 
 </div>
 
@@ -117,8 +119,3 @@ Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants
 [![GitHub](https://img.shields.io/badge/GitHub-labitayoub-181717?style=for-the-badge&logo=github)](https://github.com/labitayoub)
 
 </div>
-
-
-
-
-
