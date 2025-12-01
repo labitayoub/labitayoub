@@ -74,29 +74,6 @@ Développeur web et mobile spécialisé dans la création d'applications interac
   </tr>
 </table>
 
-### Expertise par domaine
-
-#### 🎨 Frontend
-- Développement d'interfaces responsive
-- Intégration avec Tailwind CSS
-- Intégration avec Bootstrap CSS
-- JavaScript moderne
-- Optimisation des performances UI/UX
-
-#### 💽 Backend & Base de données
-- Développement PHP orienté objet
-- Développement d'API avec **Express.js**
-- Développement d'applications avec **Laravel**
-- Gestion et optimisation des bases de données **MySQL** & **MongoDB**
-- Sécurisation des données et des transactions
-- Intégration des systèmes tiers
-
-#### 🔧 Méthodologies & Outils
-- Versioning avec Git & GitHub Actions
-- Workflow Git (branches, pull requests, code review)
-- Documentation technique
-- Tests et débogage
-
 ## 📈 Performance GitHub
 
 <div align="center">
@@ -140,6 +117,7 @@ Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants
 [![GitHub](https://img.shields.io/badge/GitHub-labitayoub-181717?style=for-the-badge&logo=github)](https://github.com/labitayoub)
 
 </div>
+
 
 
 
