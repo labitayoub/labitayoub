@@ -1,75 +1,105 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=4298d1&center=true&vCenter=true&random=false&width=800&height=70&lines=LABIT+AYOUB;D%C3%A9veloppeur+Web+Full+Stack;Passionn%C3%A9+par+l'innovation" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hello,+World!+👋;I+am+Ayoub+Labit;Full+Stack+Developer;Creative+Thinker" alt="Typing SVG" />
+  
+  <pre>
+   ______           __     __  ___            __
+  / ____/___  ____/ /__  /  |/  /___ ______/ /____  _____
+ / /   / __ \/ __  / _ \/ /|_/ / __ `/ ___/ __/ _ \/ ___/
+/ /___/ /_/ / /_/ /  __/ /  / / /_/ (__  ) /_/  __/ /
+\____/\____/\__,_/\___/_/  /_/\__,_/____/\__/\___/_/
+  </pre>
+  
+  <h3>Développeur Web Full Stack | Créateur d'Expériences Numériques</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/VOTRE_LINKEDIN">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-</h1>
+    <a href="mailto:votre.email@example.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://labitayoub.vercel.app">
+      <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
-## 👨‍💻 À propos
+<br/>
 
-Développeur web et mobile spécialisé dans la création d'applications interactives innovantes. Passionné par l'open-source et l'apprentissage continu, je m'efforce constamment d'explorer de nouvelles technologies et de contribuer activement à la communauté du développement.
+<div align="center">
+  <a href="https://labitayoub.vercel.app" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Visitez%20Mon%20Portfolio&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Découvrez%20mes%20meilleurs%20projets%20et%20mon%20univers%20créatif&descSize=14&descAlignY=60" alt="Visitez Mon Portfolio" width="100%" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://labitayoub.vercel.app">
+    <img src="https://img.shields.io/badge/👉_CLIQUEZ_ICI_POUR_VOIR_MON_PORTFOLIO_LIVE_👈-FF5722?style=for-the-badge&logo=vercel&logoColor=white" height="50" />
+  </a>
+</div>
 
-## 🛠️ Stack Technique
+<br/>
 
-### Technologies Web
-<table align="center">
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"><br>React</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"><br>JavaScript</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"><br>Express.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="48"><br>Laravel</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"><br>MongoDB</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"><br>MySQL</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"><br>GitHub</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"><br>HTML5</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"><br>CSS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>Tailwind</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"><br>PHP</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"><br>Node.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"><br>VsCode</td>
-  <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"><br>Git</td>
-</tr>
-</table>
+---
 
-## 📈 Performance GitHub Dynamique
+### 👨‍💻 À propos de moi
+
+```bash
+user@labitayoub:~$ neofetch
+-----------------------
+About:        Passionné par le web moderne et les interfaces soignées
+Role:         Full Stack Developer
+Current Work: [Nom du Projet Actuel]
+Learning:     Next.js 14, TypeScript Avancé
+Goals:        Contribuer à l'Open Source & Créer des produits utiles
+Fun Fact:     Je peux centrer une div de 5 façons différentes
+```
+
+<div align="center">
+  <pre>
+    .  .
+    |\_|\
+    | a_a\  < "Code is Poetry" />
+    | | "]
+____| '-\___
+  </pre>
+</div>
+
+---
+
+### 🛠️ Stack Technique
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=labitayoub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/labitayoub)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labitayoub&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/labitayoub)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labitayoub&theme=tokyonight&hide_border=false)](https://github.com/labitayoub)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=labitayoub&theme=react-dark&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/labitayoub)
-
-<img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophées GitHub"/>
+| Frontend | Backend | Outils & DevOps |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,redux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" /> | <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode" /> |
 
 </div>
 
-## 🏆 GitHub Achievements
+---
+
+### 📈 Statistiques GitHub
 
 <div align="center">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests successfully">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck - Earned project stars">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Pushed directly to main branch">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire - Collaborated with other developers">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed PRs quickly">
-<br>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Gave helpful answers in discussions">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Contributor">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" title="Public Sponsor">
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&locale=fr" alt="Stats GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical&locale=fr" alt="Langages les plus utilisés" height="180" />
 </div>
 
-## 🤝 Collaboration & Contact
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=radical&locale=fr" alt="GitHub Streak" />
+</div>
 
-Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants. Si vous avez une idée intéressante ou souhaitez discuter de possibles collaborations, n'hésitez pas à me contacter !
+---
 
-### Me trouver ailleurs
+### 🏆 Projets Phares
+
+| **Projet A** | **Projet B** | **Projet C** |
+| :---: | :---: | :---: |
+| Une application e-commerce complète avec paiement Stripe. | Dashboard analytique en temps réel pour la gestion de données. | Réseau social pour développeurs avec chat en direct. |
+| [Voir le Code](#) • [Démo](#) | [Voir le Code](#) • [Démo](#) | [Voir le Code](#) • [Démo](#) |
+
+---
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-labitayoub-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoublabit/)
-[![GitHub](https://img.shields.io/badge/GitHub-labitayoub-181717?style=for-the-badge&logo=github)](https://github.com/labitayoub)
+  <i>"Le code est comme l'humour. Si vous devez l'expliquer, c'est qu'il est mauvais."</i>
 </div>
