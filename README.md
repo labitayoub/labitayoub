@@ -43,26 +43,12 @@
 
 ### 👨‍💻 À propos de moi
 
-```bash
-user@labitayoub:~$ neofetch
------------------------
-About:        Passionné par le web moderne et les interfaces soignées
-Role:         Full Stack Developer
-Current Work: [Nom du Projet Actuel]
-Learning:     Next.js 14, TypeScript Avancé
-Goals:        Contribuer à l'Open Source & Créer des produits utiles
-Fun Fact:     Je peux centrer une div de 5 façons différentes
-```
+Je suis un **Développeur Full Stack** créatif et rigoureux, spécialisé dans la conception d'applications web modernes. Mon expertise couvre l'ensemble du cycle de développement, de l'architecture backend à l'interface utilisateur frontend.
 
-<div align="center">
-  <pre>
-    .  .
-    |\_|\
-    | a_a\  < "Code is Poetry" />
-    | | "]
-____| '-\___
-  </pre>
-</div>
+*   🔭 **Actuellement** : Je développe des solutions web performantes et scalables.
+*   🌱 **En apprentissage** : Veille technologique constante sur l'écosystème JavaScript/TypeScript.
+*   🤝 **Collaboration** : Ouvert aux opportunités et aux projets innovants.
+*   ⚡ **Soft Skills** : Résolution de problèmes, travail d'équipe et communication claire.
 
 ---
 
@@ -113,15 +99,7 @@ ____| '-\___
 
 ---
 
-### 🚀 Projets Signatures
 
-| **Projet A** | **Projet B** | **Projet C** |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=E-Commerce+App" width="100%" /> | <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=SaaS+Dashboard" width="100%" /> | <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=Social+Network" width="100%" /> |
-| **E-Commerce Next.js** <br/> *Stripe, Redux, Tailwind* | **Analytics Dashboard** <br/> *D3.js, Node, Socket.io* | **Dev Community** <br/> *MERN Stack, WebRTC* |
-| [`Explore Code` ↗](#) | [`Explore Code` ↗](#) | [`Explore Code` ↗](#) |
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=labitayoub&style=flat-square&color=blue" alt="Visitor Count" />
