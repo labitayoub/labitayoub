@@ -51,7 +51,7 @@ Je suis un **Développeur Full Stack** créatif et rigoureux, spécialisé dans 
 
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=labitayoub">
-    <img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=radical&no-frame=true&margin-w=15&margin-h=15&exclude=followers,experience,issues,reviews" alt="Trophées" />
+    <img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=radical&no-frame=true&margin-w=15&margin-h=15&exclude=followers,experience,issues,reviews&rank=-C" alt="Trophées" />
   </a>
 </div>
 
