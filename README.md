@@ -12,7 +12,7 @@
   <h3>Développeur Web Full Stack | Créateur d'Expériences Numériques</h3>
   
   <p>
-    <a href="https://linkedin.com/in/VOTRE_LINKEDIN">
+    <a href="https://linkedin.com/in/ayoublabit">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:votre.email@example.com">
@@ -71,8 +71,8 @@ ____| '-\___
 ### 🏆 Trophées & Accomplissements
 
 <div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME">
-    <img src="https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophées" />
+  <a href="https://github-profile-trophy.vercel.app/?username=labitayoub">
+    <img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophées" />
   </a>
 </div>
 
@@ -93,7 +93,7 @@ ____| '-\___
 ### 🧩 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=react-dark" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=labitayoub&theme=react-dark" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -101,14 +101,14 @@ ____| '-\___
 ### 📈 Métriques de Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&locale=fr&count_private=true&include_all_commits=true" alt="Stats GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical&locale=fr&hide=html,css" alt="Langages les plus utilisés" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=labitayoub&show_icons=true&theme=radical&locale=fr&count_private=true&include_all_commits=true" alt="Stats GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labitayoub&layout=compact&theme=radical&locale=fr&hide=html,css" alt="Langages les plus utilisés" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=radical&locale=fr&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labitayoub&theme=radical&locale=fr&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -124,11 +124,11 @@ ____| '-\___
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&style=flat-square&color=blue" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=labitayoub&style=flat-square&color=blue" alt="Visitor Count" />
   <br/>
   <br/>
   <i>"Le code est comme l'humour. Si vous devez l'expliquer, c'est qu'il est mauvais."</i>
   <br/>
   <br/>
-  <a href="https://linkedin.com/in/VOTRE_LINKEDIN"><img src="https://img.shields.io/badge/Connectons--nous-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/ayoublabit"><img src="https://img.shields.io/badge/Connectons--nous-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
 </div>
