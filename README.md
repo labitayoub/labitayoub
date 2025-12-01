@@ -2,7 +2,6 @@
   <!-- Nom principal et animation de frappe -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&text=LABIT%20AYOUB&height=100&fontSize=70&animation=fadeIn&strokeWidth=0&fontAlignY=55" alt="LABIT AYOUB" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hello,+World!+👋;I+am+Ayoub+Labit;Full+Stack+Developer;Creative+Thinker" alt="Typing SVG" />
-  <h3>Développeur Web Full Stack | Créateur d'Expériences Numériques</h3>
     
   <pre>
 MMMMMMMMMMMMMMMWXOkxxxkKWMMMMMMMMMMMMMMM
@@ -25,6 +24,7 @@ o.              .......               'x
                                         
                                      .. 
                                       . 
+      <h3>Développeur Web Full Stack | Créateur d'Expériences Numériques</h3>
   </pre>
   <p>
     <a href="https://linkedin.com/in/ayoublabit">
@@ -235,4 +235,5 @@ DevOps & Outils
 
   <a href="https://linkedin.com/in/ayoublabit"><img src="https://img.shields.io/badge/Connectons--nous-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
 </div>
+
 
